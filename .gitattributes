@@ -1,0 +1,8 @@
+# ルートに追加
+* text=auto
+
+# TypeScript / JavaScript / Markdown は LF を強制
+*.ts   text eol=lf
+*.tsx  text eol=lf
+*.js   text eol=lf
+*.md   text eol=lf
